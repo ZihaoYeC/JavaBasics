@@ -1,4 +1,4 @@
-public class CubicEquations {
+public class CubicEquation {
 
 	public static void main(String[] args) {
 		int x = 3;

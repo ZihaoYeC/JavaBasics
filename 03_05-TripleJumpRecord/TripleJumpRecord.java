@@ -23,8 +23,6 @@ public class TripleJumpRecord {
 		// Display the previous integer value
 		int previousint = (int) Math.floor(Newrecord);
 		System.out.println("The current record is above "+previousint+" meters");
-		
-
 	}
 
 }
